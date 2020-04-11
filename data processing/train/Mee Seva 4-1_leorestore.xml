@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train</folder>
+	<filename>Mee Seva 4-1_leorestore.jpg</filename>
+	<path>/home/prudhvi/objDetection/train/Mee Seva 4-1_leorestore.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>595</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>amma</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>35</xmin>
+			<ymin>325</ymin>
+			<xmax>97</xmax>
+			<ymax>371</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>dad</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>372</xmin>
+			<ymin>300</ymin>
+			<xmax>465</xmax>
+			<ymax>381</ymax>
+		</bndbox>
+	</object>
+</annotation>

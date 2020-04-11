@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>IMG_20160921_183714_leorestore.jpg</filename>
+	<path>/home/prudhvi/objDetection/train/IMG_20160921_183714_leorestore.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>272</width>
+		<height>387</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>prudhvi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>53</xmin>
+			<ymin>8</ymin>
+			<xmax>236</xmax>
+			<ymax>205</ymax>
+		</bndbox>
+	</object>
+</annotation>

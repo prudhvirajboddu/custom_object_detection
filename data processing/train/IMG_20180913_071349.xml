@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>IMG_20180913_071349.jpg</filename>
+	<path>/home/prudhvi/objDetection/train/IMG_20180913_071349.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>802</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bharath</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>323</xmin>
+			<ymin>312</ymin>
+			<xmax>705</xmax>
+			<ymax>533</ymax>
+		</bndbox>
+	</object>
+</annotation>

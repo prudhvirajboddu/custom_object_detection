@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>IMG_20190912_141006880.jpg</filename>
+	<path>/home/prudhvi/objDetection/train/IMG_20190912_141006880.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>750</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>prudhvi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>267</xmin>
+			<ymin>185</ymin>
+			<xmax>488</xmax>
+			<ymax>597</ymax>
+		</bndbox>
+	</object>
+</annotation>

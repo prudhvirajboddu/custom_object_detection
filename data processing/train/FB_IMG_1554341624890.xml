@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>FB_IMG_1554341624890.jpg</filename>
+	<path>/home/prudhvi/objDetection/train/FB_IMG_1554341624890.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>193</width>
+		<height>412</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dad</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>50</xmin>
+			<ymin>13</ymin>
+			<xmax>127</xmax>
+			<ymax>102</ymax>
+		</bndbox>
+	</object>
+</annotation>

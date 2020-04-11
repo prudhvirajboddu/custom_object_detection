@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>IMG_20181102_053253.jpg</filename>
+	<path>/home/prudhvi/objDetection/test/IMG_20181102_053253.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>802</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bharath</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>247</xmin>
+			<ymin>145</ymin>
+			<xmax>587</xmax>
+			<ymax>405</ymax>
+		</bndbox>
+	</object>
+</annotation>

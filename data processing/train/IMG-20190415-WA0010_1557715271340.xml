@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>IMG-20190415-WA0010_1557715271340.jpg</filename>
+	<path>/home/prudhvi/objDetection/train/IMG-20190415-WA0010_1557715271340.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dad</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>433</xmin>
+			<ymin>197</ymin>
+			<xmax>493</xmax>
+			<ymax>261</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>IMG-20190219-WA0024.jpg</filename>
+	<path>/home/prudhvi/objDetection/train/IMG-20190219-WA0024.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>450</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bharath</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>366</xmin>
+			<ymin>155</ymin>
+			<xmax>441</xmax>
+			<ymax>272</ymax>
+		</bndbox>
+	</object>
+</annotation>
